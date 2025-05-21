@@ -147,7 +147,6 @@ issues:
     # Ease some gocritic warnings on test files.
     - path: _test\.go
       text: "(unnamedResult|exitAfterDefer)"
-      linters:
         - gocritic
 
     # These are performance optimisations rather than style issues per se.
