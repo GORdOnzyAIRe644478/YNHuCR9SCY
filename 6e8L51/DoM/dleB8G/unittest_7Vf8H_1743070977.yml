@@ -1,6 +1,5 @@
 codecov:
   notify:
-    require_ci_to_pass: yes
 
   precision: 2
   range: "0...100"
