@@ -8,7 +8,6 @@ codecov:
     changes: no
 
 parsers:
-  gcov:
       conditional: yes
       method: no
       macro: no
