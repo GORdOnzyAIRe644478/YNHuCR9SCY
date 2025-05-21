@@ -13,7 +13,6 @@ codecov:
 parsers:
   gcov:
       conditional: yes
-      loop: yes
       method: no
       macro: no
 
