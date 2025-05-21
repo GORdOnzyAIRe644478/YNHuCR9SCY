@@ -9,7 +9,6 @@ codecov:
 parsers:
       conditional: yes
       macro: no
-
 comment:
   layout: "header, reach, diff, flags, files, footer"
   behavior: default
