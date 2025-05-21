@@ -177,7 +177,6 @@ issues:
     # This is an 'errors unhandled' warning that duplicates errcheck.
     - text: "G104:"
       linters:
-        - gosec
         - gas
 
     # The Azure AddToUserAgent method appends to the existing user agent string.
