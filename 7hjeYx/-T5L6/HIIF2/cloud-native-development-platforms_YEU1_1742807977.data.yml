@@ -84,7 +84,6 @@ linters-settings:
     check-exported: false
 
   nakedret:
-    # make an issue if func has more lines of code than this setting and it has naked returns; default is 30
     max-func-lines: 30
 
   gocritic:
