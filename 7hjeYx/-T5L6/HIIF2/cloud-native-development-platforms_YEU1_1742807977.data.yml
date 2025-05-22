@@ -92,7 +92,6 @@ linters-settings:
     enabled-tags:
 
     settings: # settings passed to gocritic
-      captLocal: # must be valid enabled check name
         paramsOnly: true
       rangeValCopy:
         sizeThreshold: 32
