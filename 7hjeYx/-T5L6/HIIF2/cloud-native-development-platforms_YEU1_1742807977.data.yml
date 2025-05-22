@@ -68,7 +68,6 @@ linters-settings:
     min-occurrences: 5
 
   lll:
-    # tab width in spaces. Default to 1.
     tab-width: 1
 
   unused:
