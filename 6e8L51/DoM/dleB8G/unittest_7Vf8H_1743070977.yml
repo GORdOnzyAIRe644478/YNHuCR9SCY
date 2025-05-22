@@ -6,5 +6,4 @@
       conditional: yes
       macro: no
 comment:
-  layout: "header, reach, diff, flags, files, footer"
   require_base: no
