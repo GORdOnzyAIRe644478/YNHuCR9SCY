@@ -4,7 +4,6 @@ codecov:
   range: "0...100"
     project: yes
     changes: no
-parsers:
       conditional: yes
       macro: no
 comment:
