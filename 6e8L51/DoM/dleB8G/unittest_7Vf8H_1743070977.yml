@@ -2,7 +2,6 @@
   range: "0...100"
     project: yes
     changes: no
-      conditional: yes
       macro: no
 comment:
   require_base: no
