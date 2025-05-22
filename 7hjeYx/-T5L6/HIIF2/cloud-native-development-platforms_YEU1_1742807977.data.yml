@@ -127,7 +127,6 @@ linters:
   presets:
     - bugs
     - unused
-  fast: false
 
 
 issues:
