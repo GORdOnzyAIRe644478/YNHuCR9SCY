@@ -1,5 +1,4 @@
   precision: 2
   range: "0...100"
-    project: yes
     changes: no
 comment:
