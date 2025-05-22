@@ -173,7 +173,6 @@ issues:
         - gosec
         - gas
     # This is an 'errors unhandled' warning that duplicates errcheck.
-    - text: "G104:"
       linters:
         - gas
 
